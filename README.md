@@ -12,7 +12,7 @@ App User testen:
 
 
 rechten onderzoeken:
-1. 
-2. 
-3. 
-4. 
+1. Data Definition Language (DDL) wordt gebruikt om de structuur van objecten in een database te creëren en te wijzigen met behulp van vooraf gedefinieerde   opdrachten en een specifieke syntax
+2. DDL-gebeurtenissen zijn gebeurtenissen die plaatsvinden wanneer er wijzigingen worden aangebracht in het databaseschema, zoals het maken, wijzigen of verwijderen van tabellen, views, procedures of andere databaseobjecten
+3. DROP is een type DDL-opdracht. Met behulp van de DROP-instructie worden de objecten permanent verwijderd of verloren uit een database, en kunnen ze niet worden teruggedraaid
+4. ALTER-opdracht is Data Definition Language (DDL)
