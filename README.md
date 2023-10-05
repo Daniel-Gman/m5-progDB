@@ -25,5 +25,3 @@ DDL-gebeurtenissen zijn gebeurtenissen die plaatsvinden wanneer er wijzigingen w
 DROP is een type DDL-opdracht. Met behulp van de DROP-instructie worden de objecten permanent verwijderd of verloren uit een database, en kunnen ze niet worden teruggedraaid
 5. 
 ALTER-opdracht is Data Definition Language (DDL)
-
-# Opdracht 3.1
