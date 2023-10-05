@@ -14,3 +14,4 @@ unsigned: je kan geen negatief getal invullen want het gaat om een adres
 unique: zorgt ervoor dat er geen duplicatie komt van het adres
 
 
+![image](https://github.com/Daniel-Gman/m5-progDB/assets/115157669/456b92a8-c2ef-4390-a7b8-6b2e39dc41dc)
