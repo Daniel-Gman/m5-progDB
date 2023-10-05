@@ -11,8 +11,6 @@ App User testen:
 ![image](https://github.com/Daniel-Gman/m5-progDB/assets/115157669/ca91a3fd-4931-461e-8f20-1eb74d3d2cb1)
 
 
-##Rechten onderzoekn 2.3
-
 
 rechten onderzoeken:
 1.
