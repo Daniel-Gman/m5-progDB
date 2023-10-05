@@ -10,6 +10,9 @@ App User testen:
 
 ![image](https://github.com/Daniel-Gman/m5-progDB/assets/115157669/ca91a3fd-4931-461e-8f20-1eb74d3d2cb1)
 
+![image](https://github.com/Daniel-Gman/m5-progDB/assets/115157669/87209ca7-2b15-4d07-ac98-369dc844379c)
+
+
 
 # Rechten onderzoek 2.3
 
