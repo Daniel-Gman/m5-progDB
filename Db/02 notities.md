@@ -15,3 +15,7 @@ unique: zorgt ervoor dat er geen duplicatie komt van het adres
 
 
 ![image](https://github.com/Daniel-Gman/m5-progDB/assets/115157669/456b92a8-c2ef-4390-a7b8-6b2e39dc41dc)
+
+
+![image](https://github.com/Daniel-Gman/m5-progDB/assets/115157669/e2f6d1d5-30f5-4ee3-b92b-4140a590bd1c)
+
